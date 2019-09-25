@@ -9,4 +9,9 @@
     <string name="radiobutton">Rediyo Batan</string>
     <string name="checkbox">Chek Dabba</string>
     <string name="what_does_this_do">Ye Kya kareg?</string>
+    <string name="ok">OK</string>
+    <string name="dialog_message">Message</string>
+    <string name="dialog_title">Title</string>
+    <string name="cancel" />
+    <string name="checkbox_response">Exit</string>
 </resources>
