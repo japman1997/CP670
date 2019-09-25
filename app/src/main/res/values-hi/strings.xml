@@ -9,9 +9,9 @@
     <string name="radiobutton">Rediyo Batan</string>
     <string name="checkbox">Chek Dabba</string>
     <string name="what_does_this_do">Ye Kya kareg?</string>
-    <string name="ok">OK</string>
-    <string name="dialog_message">Message</string>
-    <string name="dialog_title">Title</string>
-    <string name="cancel" />
-    <string name="checkbox_response">Exit</string>
+    <string name="ok">Haan</string>
+    <string name="dialog_message">Bandd Kardu?</string>
+    <string name="dialog_title">Bandd</string>
+    <string name="cancel">Nhi</string>
+    <string name="checkbox_response">ListItemsActivity ne bheja: Meri info share hui</string>
 </resources>
