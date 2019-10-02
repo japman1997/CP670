@@ -13,4 +13,6 @@
     <string name="dialog_title">Close?</string>
     <string name="cancel">Cancel</string>
     <string name="checkbox_response">ListItemsActivity passed: My information to share</string>
+    <string name="startChat">Start Chat</string>
+    <string name="send">Send</string>
 </resources>

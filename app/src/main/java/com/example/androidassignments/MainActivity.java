@@ -32,14 +32,21 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+        Button startChat = findViewById(R.id.startChat);
+        startChat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.i(ACTIVITY_NAME, "User clicked start chat");
+                Intent chat = new Intent(MainActivity.this,ChatWindow.class);
+                startActivity(chat);
+            }
+        });
     }
 
     public void disp() {
-        Log.i(ACTIVITY_NAME, "Returned to Main Activity.onActivityResult");
         int duration = Toast.LENGTH_SHORT;
         Toast toast = Toast.makeText(MainActivity.this, R.string.checkbox_response, duration);
-        toast.show();
-
     }
 
     @Override
