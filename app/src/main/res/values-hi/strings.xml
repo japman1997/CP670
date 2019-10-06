@@ -16,4 +16,6 @@
     <string name="checkbox_response">ListItemsActivity ne bheja: Meri info share hui</string>
     <string name="startChat">Chat shuru kare</string>
     <string name="send">Bheje</string>
+    <string name="pick_color">Do you want to go back?</string>
+    <string name="name">Message</string>
 </resources>

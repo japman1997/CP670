@@ -15,4 +15,7 @@
     <string name="checkbox_response">ListItemsActivity passed: My information to share</string>
     <string name="startChat">Start Chat</string>
     <string name="send">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="pick_color">Do you want to go back?</string>
+    <string name="name">Message</string>
 </resources>
