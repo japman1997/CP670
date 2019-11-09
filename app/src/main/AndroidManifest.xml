@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.androidassignments">
-
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
@@ -11,10 +11,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".WeatherForecast"></activity>
         <activity
             android:name=".TestToolbar"
-            android:label="@string/title_activity_test_toolbar"
-            ></activity>
+            android:label="@string/title_activity_test_toolbar" />
         <activity android:name=".ChatWindow" />
         <activity android:name=".LoginActivity">
             <intent-filter>

@@ -18,4 +18,8 @@
     <string name="title_activity_test_toolbar">TestToolbar</string>
     <string name="pick_color">Do you want to go back?</string>
     <string name="name">Message</string>
+    <string name="weather">Weather Update</string>
+    <string name="current_temp">Current temp</string>
+    <string name="min_temp">Min temp</string>
+    <string name="max_temp">Max temp</string>
 </resources>

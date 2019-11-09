@@ -52,6 +52,16 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(chat);
             }
         });
+
+        Button WeatherForecast = findViewById(R.id.WeatherForecast);
+        WeatherForecast.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.i(ACTIVITY_NAME, "User clicked WeatherForecast");
+                Intent chat = new Intent(MainActivity.this,WeatherForecast.class);
+                startActivity(chat);
+            }
+        });
     }
 
     public void disp() {

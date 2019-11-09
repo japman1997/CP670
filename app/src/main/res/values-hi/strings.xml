@@ -18,4 +18,8 @@
     <string name="send">Bheje</string>
     <string name="pick_color">Do you want to go back?</string>
     <string name="name">Message</string>
+    <string name="weather">Weather Update</string>
+    <string name="current_temp">Abhi ka Tapman</string>
+    <string name="min_temp">Kam Tapman</string>
+    <string name="max_temp">Zyada Tapman</string>
 </resources>
